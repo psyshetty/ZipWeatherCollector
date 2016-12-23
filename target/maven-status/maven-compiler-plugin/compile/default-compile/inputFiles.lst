@@ -1,9 +1,0 @@
-/Users/ps/wd/workspace/ZipWeatherCollector/src/main/java/com/phunware/interviews/weather/reader/ZipcodeFileReader.java
-/Users/ps/wd/workspace/ZipWeatherCollector/src/main/java/com/phunware/interviews/weather/WeatherDataCollector.java
-/Users/ps/wd/workspace/ZipWeatherCollector/src/main/java/com/phunware/interviews/weather/pojo/Weather.java
-/Users/ps/wd/workspace/ZipWeatherCollector/src/main/java/com/phunware/interviews/weather/webservice/YahooWeatherService.java
-/Users/ps/wd/workspace/ZipWeatherCollector/src/main/java/com/phunware/interviews/App.java
-/Users/ps/wd/workspace/ZipWeatherCollector/src/main/java/com/phunware/interviews/weather/pojo/YahooWeatherResponse.java
-/Users/ps/wd/workspace/ZipWeatherCollector/src/main/java/com/phunware/interviews/weather/webservice/WebServiceClient.java
-/Users/ps/wd/workspace/ZipWeatherCollector/src/main/java/com/phunware/interviews/weather/webservice/ElasticSearchWebService.java
-/Users/ps/wd/workspace/ZipWeatherCollector/src/main/java/com/phunware/interviews/weather/pojo/Zip.java
