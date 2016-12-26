@@ -2,7 +2,6 @@ package com.phunware.interviews.weather;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.google.gson.JsonObject;
 import com.phunware.interviews.weather.pojo.Weather;
 import com.phunware.interviews.weather.pojo.Zip;
 import com.phunware.interviews.weather.reader.ZipcodeFileReader;
