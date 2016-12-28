@@ -1,9 +1,11 @@
 package com.phunware.interviews.weather.pojo;
 
+import java.io.Serializable;
+
 /**
  * Created by ps on 12/22/16.
  */
-public class Zip {
+public class Zip implements Serializable {
     private Integer zipcode;
     private String city;
     private String county;

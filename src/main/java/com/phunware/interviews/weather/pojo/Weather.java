@@ -1,9 +1,11 @@
 package com.phunware.interviews.weather.pojo;
 
+import java.io.Serializable;
+
 /**
  * Created by ps on 12/22/16.
  */
-public class Weather {
+public class Weather implements Serializable {
     private Float lowTemperature;
     private Float highTemperature;
     private Integer zipcode;

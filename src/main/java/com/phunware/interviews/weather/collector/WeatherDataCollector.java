@@ -1,4 +1,4 @@
-package com.phunware.interviews.weather;
+package com.phunware.interviews.weather.collector;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

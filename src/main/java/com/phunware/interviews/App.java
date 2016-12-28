@@ -1,6 +1,6 @@
 package com.phunware.interviews;
 
-import com.phunware.interviews.weather.WeatherDataCollector;
+import com.phunware.interviews.weather.collector.WeatherDataCollector;
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
