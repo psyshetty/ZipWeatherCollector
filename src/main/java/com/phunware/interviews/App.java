@@ -16,7 +16,7 @@ public class App {
         return config;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         //String filePath = "/Users/ps/wd/data/tz.csv";
         if (args.length == 2) {
             String configPath = args[0];

@@ -26,7 +26,7 @@ public class SparkApp {
     return config;
   }
 
-  public static void main(String[] args) {
+  public static void main(String[] args) throws Exception {
     if (args.length == 2) {
       String configPath = args[0];
       String dataFilePath = args[1];
@@ -40,6 +40,7 @@ public class SparkApp {
         config = getConfig(sc, configFile);
         SparkWeatherDataCollector collector = new SparkWeatherDataCollector();
         collector.collect(sc, config, dataFilePath);
+        sc.close();
       } catch (Exception ex) {
         System.out.println("Error: " + ex.getMessage());
         ex.printStackTrace();
